@@ -4,7 +4,7 @@
 ## By Jérôme Lesueur and Per Bloland
 
 <br><br>
-<img src="./Docs/patch.png" height="450"/>
+<img src="./Docs/patch.png" height="400"/>
 
 ### A front end patch for the [Orchidea](http://www.orch-idea.org/) Max package
 
