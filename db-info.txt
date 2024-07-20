@@ -1,0 +1,7 @@
+0, 1=TinySOL2020 2=OrchideaSOL2020 3=FullSOL2020 100=solutions folder 101=best solutions folder;
+1, default;
+2, default;
+3, default;
+100, default;
+101, default;
+1000, initial values for 1 through 3 and 100-101 should be default;
