@@ -1,0 +1,63 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u945012698",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "all",
+				"data" : 				{
+					"styles-textbox" : [ "aeol", "aeol_and_ord", "art_harm", "art_harm_trem", "behind_bridge", "behind_fngrbrd", "behind_frog", "bisb", "bisb_and_stick", "blow", "blow_no_reed", "brassy", "breath", "cluster_and_nail_hi", "cluster_and_nail_lo", "cluster_and_nail_mid", "cluster_hi", "cluster_lo", "cluster_mid", "damp", "dbl_tng", "dsclrd_fngr", "flatt", "flatt_closed", "flatt_hi_reg", "flatt_no_mthpc", "flatt_open", "flatt_stopped", "growl", "harm_fngr", "jet_wh", "key_cl", "kiss", "legno_batt", "legno_tratto", "ord", "ord_closed", "ord_hi_reg", "ord_open", "pdl_tone", "pizz_bartok", "pizz_lv", "pizz_sec", "pont", "pont_trem", "reg_combi", "sfz", "slap", "slap_unp", "sngl_tng", "stopped", "tasto_trem", "trem", "trem_and_fngrtip", "vib", "whst_tn" ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "no ord",
+				"data" : 				{
+					"styles-textbox" : [ "aeol", "art_harm", "art_harm_trem", "behind_bridge", "behind_fngrbrd", "behind_frog", "bisb", "bisb_and_stick", "blow", "blow_no_reed", "brassy", "breath", "cluster_and_nail_hi", "cluster_and_nail_lo", "cluster_and_nail_mid", "cluster_hi", "cluster_lo", "cluster_mid", "damp", "dbl_tng", "dsclrd_fngr", "flatt", "flatt_closed", "flatt_hi_reg", "flatt_no_mthpc", "flatt_open", "flatt_stopped", "growl", "harm_fngr", "jet_wh", "key_cl", "kiss", "legno_batt", "legno_tratto", "pdl_tone", "pizz_bartok", "pizz_lv", "pizz_sec", "pont", "pont_trem", "reg_combi", "sfz", "slap", "slap_unp", "sngl_tng", "stopped", "tasto_trem", "trem", "trem_and_fngrtip", "vib", "whst_tn\n" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "no pizz/batt",
+				"data" : 				{
+					"styles-textbox" : [ "aeol", "aeol_and_ord", "art_harm", "art_harm_trem", "behind_bridge", "behind_fngrbrd", "behind_frog", "bisb", "bisb_and_stick", "blow", "blow_no_reed", "brassy", "breath", "cluster_and_nail_hi", "cluster_and_nail_lo", "cluster_and_nail_mid", "cluster_hi", "cluster_lo", "cluster_mid", "damp", "dbl_tng", "dsclrd_fngr", "flatt", "flatt_closed", "flatt_hi_reg", "flatt_no_mthpc", "flatt_open", "flatt_stopped", "growl", "harm_fngr", "jet_wh", "key_cl", "kiss", "legno_tratto", "ord", "ord_closed", "ord_hi_reg", "ord_open", "pdl_tone", "pont", "pont_trem", "reg_combi", "sfz", "slap", "slap_unp", "sngl_tng", "stopped", "tasto_trem", "trem", "trem_and_fngrtip", "vib", "whst_tn\n" ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "ord only",
+				"data" : 				{
+					"styles-textbox" : [ "ord", "ord_closed", "ord_hi_reg", "ord_open\n" ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "mostly pitched str",
+				"data" : 				{
+					"styles-textbox" : [ "ord", "ord_closed", "ord_hi_reg", "ord_open", "pont", "pont_trem", "sfz", "tasto_trem", "trem\n" ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Classic",
+				"data" : 				{
+					"styles-textbox" : [ "pizz", "ord" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
